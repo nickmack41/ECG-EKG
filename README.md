@@ -1,2 +1,22 @@
 # ECG-EKG
 8-Channel
+
+250HzACQ-5000-NORM-35HzLPN-0_05Hz-8_Channels
+4 msec/sample
+8 channels
+1 - ECG100C
+mV
+2 - ECG100C
+mV
+3 - ECG100C
+mV
+4 - ECG100C
+mV
+5 - ECG100C
+mV
+6 - ECG100C
+mV
+7 - ECG100C
+mV
+8 - ECG100C
+mV
